@@ -11,7 +11,7 @@ After more than 6 years in the world of customer service and retail, I decided t
 There's nothing special about me, I'm just deeply curious and that means I always find a solution.
 
 ## SKILSS
-- ![image](https://github.com/Israelhoyos/Israelhoyos/assets/124594343/04835ad6-68d6-4b6b-9ae2-16a76cfe13b0) PYTHON
+![image](https://github.com/Israelhoyos/Israelhoyos/assets/124594343/04835ad6-68d6-4b6b-9ae2-16a76cfe13b0?w=300&h=200) PYTHON
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
