@@ -31,9 +31,10 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 
 📧 israelhoyos777@gmail.com
 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/israel-hoyos-300621250)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Israel_Hoyos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/israel-hoyos-300621250)
+
+
+[![Email](https://img.shields.io/badge/Español-devexperto.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://www.israelhoyos777@gmail.com)
 
 
 <!---
