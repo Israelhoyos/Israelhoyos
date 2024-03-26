@@ -9,6 +9,8 @@
 I have a professional carrer as a Telecommunications and IT professional.
 After more than 6 years in the world of customer service and retail, I decided to prepare myself to be the best Data professional I can be.
 
+I have been able to visit more than 200 cities in the world on five continents, my worldview is global in the professional area, always seeking to grow slowly but surely.
+
 There's nothing special about me, I'm just deeply curious and that means I always find a solution.
 
 
