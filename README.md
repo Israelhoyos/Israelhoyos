@@ -32,7 +32,8 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 📧 israelhoyos777@gmail.com
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Leiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/israel-hoyos-300621250)
+[![LinkedIn](https://img.shields.io/badge/israel-hoyos-300621250
+style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/israel-hoyos-300621250)
 www.linkedin.com/in/israel-hoyos-300621250
 
 
