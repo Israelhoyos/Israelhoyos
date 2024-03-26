@@ -39,8 +39,7 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 
 
 
-
-"C:\Users\israe\OneDrive\Escritorio\Escritos\CV.pdf"
+Listas.pdf
 
 <!---
 Israelhoyos/Israelhoyos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
