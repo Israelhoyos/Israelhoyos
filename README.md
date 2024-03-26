@@ -32,7 +32,7 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 📧 israelhoyos777@gmail.com
 
 
-[![LinkedIn](www.linkedin.com/in/israel-hoyos-300621250)
+[![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/israel-hoyos-300621250)
 
 
 
