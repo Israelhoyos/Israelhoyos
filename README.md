@@ -29,7 +29,6 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 ## Contact me
 
 
-📧 israelhoyos777@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Israel_Hoyos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/israel-hoyos-300621250)
 
