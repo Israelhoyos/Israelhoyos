@@ -38,6 +38,10 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 [![Email](https://img.shields.io/badge/Email-israelhoyos777@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://www.israelhoyos777@gmail.com)
 
 
+
+
+"C:\Users\israe\OneDrive\Escritorio\Escritos\CV.pdf"
+
 <!---
 Israelhoyos/Israelhoyos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
