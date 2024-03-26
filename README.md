@@ -29,7 +29,7 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 ## Contact me
 
 
-![image](https://github.com/Israelhoyos/Israelhoyos/assets/124594343/d0d87f8b-9868-4313-9ffa-b797d5805ca9)
+![image](https://github.com/Israelhoyos/Israelhoyos/assets/124594343/d0d87f8b-9868-4313-9ffa-b797d5805ca9w=200)
 
 
 
