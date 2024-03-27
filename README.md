@@ -27,6 +27,14 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 
 
 
+## Certifications
+
+
+
+
+
+
+
 
 ## Contact me
 
@@ -39,7 +47,6 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 
 
 
-[Variables](Variables.pdf)
 
 <!---
 Israelhoyos/Israelhoyos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
