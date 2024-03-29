@@ -44,6 +44,9 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 [Google Analytics 4](Analytics_Advance.pdf)
 
 
+[Business Analytics](Business_Analyst.pdf)
+
+
 
 
 
