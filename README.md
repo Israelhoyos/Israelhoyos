@@ -56,6 +56,9 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 [Power Query](Power_Query.pdf)
 
 
+[Power Bi](Power_BI.pdf)
+
+
 
 
 
