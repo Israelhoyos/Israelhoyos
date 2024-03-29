@@ -47,6 +47,8 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 [Business Analytics](Business_Analyst.pdf)
 
 
+[MySQL](MySQL_avanzado.pdf)
+
 
 
 
