@@ -53,6 +53,9 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 [PostgreSQL](PostgreSQL.pdf)
 
 
+[Power Query](Power_Query.pdf)
+
+
 
 
 
