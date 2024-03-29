@@ -35,6 +35,9 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 [Google Analytics & Metatags](Google_Analytics_Diploma.pdf)
 
 
+[Microsoft Excel](Excel_Specialist.pdf)
+
+
 
 
 
