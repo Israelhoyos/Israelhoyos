@@ -38,7 +38,7 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 [Microsoft Excel](Excel_Specialist.pdf)
 
 
-[Data Scients](Fundamentos profesionales del analisis de datos por Microsoft y LinkedIn.pdf)
+[Data Scients](Microsoft_LinkedIn.pdf)
 
 
 
