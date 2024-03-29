@@ -30,6 +30,8 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 ## Certifications
 
 [Title Data](DATA_TITULO.pdf)
+
+
 [Google Analytics & Metatags](Google_Analytics_Diploma.pdf)
 
 
