@@ -29,7 +29,8 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 
 ## Certifications
 
-[Titile Data](DATA_TITULO.pdf)
+[Title Data](DATA_TITULO.pdf)
+
 
 
 
