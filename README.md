@@ -2,7 +2,7 @@
 ![Data_Analyst](https://github.com/Israelhoyos/Israelhoyos/assets/124594343/18244438-fd5b-4a44-b824-6b05d3e2efa8)
 
 
-### I am a junior Data Analyst📊, passionate about technology, with more than 6 years in sales and retail, I define myself as a disciplined person in search of continuous improvement.
+### I am a junior Data Analyst📊, passionate about technology, with 7 years of experience in sales and retail, I define myself as a disciplined person in search of continuous improvement.
 
 
 
