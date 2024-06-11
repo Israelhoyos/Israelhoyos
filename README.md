@@ -62,6 +62,8 @@ There's nothing special about me, I'm just deeply curious and that means I alway
 [Cisco](Data_Science.pdf)
 
 
+[Python](Python_DataScients.pdf)
+
 
 
 
